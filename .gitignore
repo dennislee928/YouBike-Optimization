@@ -3,3 +3,4 @@
 Potential-Demand/semgrep.sarif
 Potential-Demand/coderabbit.json
 /.cursor
+/.cursor/settings.json
