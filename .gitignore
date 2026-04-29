@@ -1,3 +1,5 @@
 /.ignore
 /Potential-Demand/.ignore
 Potential-Demand/semgrep.sarif
+Potential-Demand/coderabbit.json
+/.cursor
